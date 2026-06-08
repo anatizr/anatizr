@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Ana Beatriz 
+# Hey there :shipit: I'm Beatriz 
 🎓 I'm a second year [Software Engineering](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4079&catid=12) student at University of Minho 🇵🇹 <br/>
 🌱 Currently learning all the codey things 
 
